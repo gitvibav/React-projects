@@ -1,1 +1,1 @@
-# starting of react by building projects
+# You'll see beginner friendly react projects here
